@@ -94,6 +94,13 @@ unzip ehf_data.zip && rm ehf_data.zip
 ```
 
 ## Citation
-If you find this code helpful for your research, please consider citing our paper:
+If you find this code helpful for your research, please cite our paper:
 ```BibTeX
+    @inproceedings{nadar2026posedflow,
+        title={PoseD-Flow: Versatile and Guided Flow Matching Model of Human Pose},
+        author={Jebastin Nadar and Simone Foti and Tolga Birdal},
+        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+        pages={21165--21175},
+        year={2026}
+    }
 ```
